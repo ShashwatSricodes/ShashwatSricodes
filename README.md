@@ -12,4 +12,4 @@ Shashwat this side, I'm an Undergraduate student pursuing B.tech Computer Scienc
 
 Work Account Activity :
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shashwats-spektra&theme=github-dark)]
+<img src="https://ghchart.rshah.org/39d353/shashwats-spektra" alt="GitHub Contributions" />
