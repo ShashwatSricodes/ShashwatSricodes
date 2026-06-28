@@ -1,5 +1,7 @@
 # 💫 About Me:
-Shashwat this side, I'm an Undergraduate student pursuing B.tech Computer Science, currently working as an AI Native Web Developer Intern at Spektra Systems.<br>I love building tech that solves a problem.<br><br>Building PDFSlice - An Open Source a privacy first, offline client side pdf toolkit.<br>                                   500+ users and counting. 
+Shashwat this side, I'm an Undergraduate student pursuing B.tech Computer Science, currently working as an AI Native Web Developer Intern at Spektra Systems.<br>I love building tech that solves a problem.<br>
+
+<br>Building PDFSlice - An Open Source a privacy first, offline client side pdf toolkit.<br>                                   500+ users and counting. 
 
 
 ## 🌐 Socials:
